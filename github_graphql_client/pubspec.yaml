@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  fluttericon: ^1.0.7
   http: ^0.12.1
   oauth2: ^1.6.1
   url_launcher: ^5.4.10
